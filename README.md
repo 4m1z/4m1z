@@ -27,7 +27,7 @@ Outside of programming, I enjoy traveling, BJJ, and music.
 
 ## 📌 Current focus
 
-* System design
+* Study about systems at scale
 * Challenging projects across product, frontend, and backend work
 * Learning Rust
 
