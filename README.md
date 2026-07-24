@@ -4,7 +4,7 @@ I'm based in Germany.
 
 I like working on interesting problems, learning by building, and keeping things simple and solid.
 
-Outside of programming, I enjoy traveling, BJJ, and music.
+Outside of programming, I enjoy traveling, BJJ, photography and music.
 
 
 
@@ -31,7 +31,7 @@ Outside of programming, I enjoy traveling, BJJ, and music.
 * Challenging projects across product, frontend, and backend work
 * Learning Rust
 
----
+
 
 ## 🌐 Find me online
 
