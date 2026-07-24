@@ -7,7 +7,7 @@ I like working on interesting problems, learning by building, and keeping things
 Outside of programming, I enjoy traveling, BJJ, and music.
 
 
----
+
 
 ## 🚀 A few things I've worked on
 
@@ -15,7 +15,7 @@ Outside of programming, I enjoy traveling, BJJ, and music.
 * Built an internal editor that replaced external tools for a content team
 * Worked on a campaign system with more flexible reward logic for complex use cases
 
----
+
 
 ## 🧠 What I care about
 
@@ -23,7 +23,7 @@ Outside of programming, I enjoy traveling, BJJ, and music.
 * Systems that stay reliable under load
 * Understanding the real problem before writing code
 
----
+
 
 ## 📌 Current focus
 
