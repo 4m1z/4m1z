@@ -37,3 +37,4 @@ Outside of programming, I enjoy traveling, BJJ, photography and music.
 
 * Website: https://amirahmadzadeh.com
 * LinkedIn: https://www.linkedin.com/in/amir-ahmadzadeh-a93b44156/
+* X: https://x.com/Amir_Arsalan_99
